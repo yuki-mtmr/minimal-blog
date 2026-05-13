@@ -5,13 +5,20 @@
 <link>https://example.com/</link>
 <description>個人サイト。技術と思考の不定期な記録。</description>
 <language>ja</language>
-<lastBuildDate>Wed, 13 May 2026 10:22:01 +0900</lastBuildDate>
+<lastBuildDate>Wed, 13 May 2026 18:49:25 +0900</lastBuildDate>
 <item>
 <title>このサイトについて</title>
 <link>https://example.com/posts/2026-05-13-hello-world.html</link>
 <guid>https://example.com/posts/2026-05-13-hello-world.html</guid>
 <pubDate>Wed, 13 May 2026 00:00:00 +0900</pubDate>
 <description>このサイトについて</description>
+</item>
+<item>
+<title>タイムモアのコーヒーミルを買った</title>
+<link>https://example.com/posts/2026-05-13-first-pot.html</link>
+<guid>https://example.com/posts/2026-05-13-first-pot.html</guid>
+<pubDate>Wed, 13 May 2026 00:00:00 +0900</pubDate>
+<description>タイムモアのコーヒーミルを買った</description>
 </item>
 </channel>
 </rss>
